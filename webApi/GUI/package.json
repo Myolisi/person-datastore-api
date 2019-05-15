@@ -1,0 +1,23 @@
+{
+  "name": "userInterface",
+  "version": "1.0.0",
+  "description": "User interface for interacting withe the user ",
+  "author": "Myolisi Ngubentombi",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.0.0",
+    "nuxt": "^1.0.0",
+    "uikit": "^3.0.0-beta.40",
+    "underscore": "^1.8.3",
+    "vuex": "^3.0.1"
+  },
+  "devDependencies": {
+    "cross-env": "^5.0.1"
+  }
+}
