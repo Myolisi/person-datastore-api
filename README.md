@@ -2,6 +2,6 @@
 
 * [JDBI](http://jdbi.org/)
 * Java
-* Spark Framework
+* [Spark Framework](http://sparkjava.com/)
 * Postgresql
-* Nuxtjs 
+* [Nuxtjs](https://nuxtjs.org/)
