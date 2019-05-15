@@ -1,6 +1,6 @@
 # Person-datastore
 
-Java
-Spark Framework
-Postgresql
-Nuxtjs 
+* Java
+* Spark Framework
+* Postgresql
+* Nuxtjs 
