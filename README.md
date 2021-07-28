@@ -4,4 +4,3 @@
 * Java
 * [Spark Framework](http://sparkjava.com/)
 * Postgresql
-* [Nuxtjs](https://nuxtjs.org/)
